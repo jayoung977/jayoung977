@@ -46,7 +46,7 @@ I❤️ code, JavaScript, Python and anything **CREATIVE**✨
 ## 🖇️ Tools 
 ![github](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
-
+<!-- 
 ## ⭐️ Currently Studying & Interested In
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
@@ -68,7 +68,7 @@ I❤️ code, JavaScript, Python and anything **CREATIVE**✨
 
 ## 🙋🏻 Mentoring Programs
 
-- NVIDIA MONAI bootcamp 멘토 (2022/11)
+- NVIDIA MONAI bootcamp 멘토 (2022/11) -->
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=jayoung977&show_icons=true&include_all_commits=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayoung977&layout=compact) -->
