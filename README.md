@@ -70,7 +70,7 @@ I❤️ code, JavaScript, Python and anything **CREATIVE**✨
 
 - NVIDIA MONAI bootcamp 멘토 (2022/11) -->
 
-![My github status](https://github-readme-stats.vercel.app/api?username=jayoung977&show_icons=true&include_all_commits=true)
+<!-- ![My github status](https://github-readme-stats.vercel.app/api?username=jayoung977&show_icons=true&include_all_commits=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayoung977&layout=compact) -->
 <!--
 **jayoung977/jayoung977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
